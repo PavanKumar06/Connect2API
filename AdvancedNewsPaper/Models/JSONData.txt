@@ -1,0 +1,497 @@
+[
+  {
+    "pli": [
+      {
+        "cli": [
+          {
+            "row": "Batman'"
+          },
+          {
+            "row": "s secre"
+          },
+          {
+            "row": "t ident"
+          },
+          {
+            "row": "ity is "
+          },
+          {
+            "row": "Bruce W"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "ayne, a"
+          },
+          {
+            "row": "wealthy"
+          },
+          {
+            "row": "America"
+          },
+          {
+            "row": "n playb"
+          },
+          {
+            "row": "oy, phi"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "lanthro"
+          },
+          {
+            "row": "pist, a"
+          },
+          {
+            "row": "nd owne"
+          },
+          {
+            "row": "r of Wa"
+          },
+          {
+            "row": "yne Ent"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "erprise"
+          },
+          {
+            "row": "s. Batm"
+          },
+          {
+            "row": "an orig"
+          },
+          {
+            "row": "inated "
+          },
+          {
+            "row": "from an"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "inciden"
+          },
+          {
+            "row": "t in Br"
+          },
+          {
+            "row": "uce's c"
+          },
+          {
+            "row": "hildhoo"
+          },
+          {
+            "row": "d; afte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pli": [
+      {
+        "cli": [
+          {
+            "row": "r witne"
+          },
+          {
+            "row": "ssing t"
+          },
+          {
+            "row": "he murd"
+          },
+          {
+            "row": "er of h"
+          },
+          {
+            "row": "is pare"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "nts Dr."
+          },
+          {
+            "row": "Thomas "
+          },
+          {
+            "row": "Wayne a"
+          },
+          {
+            "row": "nd Mart"
+          },
+          {
+            "row": "ha Wayn"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "e, he s"
+          },
+          {
+            "row": "wore ve"
+          },
+          {
+            "row": "ngeance"
+          },
+          {
+            "row": "against"
+          },
+          {
+            "row": "crimina"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "ls, an "
+          },
+          {
+            "row": "oath te"
+          },
+          {
+            "row": "mpered "
+          },
+          {
+            "row": "by a se"
+          },
+          {
+            "row": "nse of "
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "justice"
+          },
+          {
+            "row": ". Bruce"
+          },
+          {
+            "row": "trains "
+          },
+          {
+            "row": "himself"
+          },
+          {
+            "row": "physica"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pli": [
+      {
+        "cli": [
+          {
+            "row": "lly and"
+          },
+          {
+            "row": "intelle"
+          },
+          {
+            "row": "ctually"
+          },
+          {
+            "row": "and cra"
+          },
+          {
+            "row": "fts a b"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "at-insp"
+          },
+          {
+            "row": "ired pe"
+          },
+          {
+            "row": "rsona t"
+          },
+          {
+            "row": "o fight"
+          },
+          {
+            "row": "crime.["
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "7]Batma"
+          },
+          {
+            "row": "n opera"
+          },
+          {
+            "row": "tes in "
+          },
+          {
+            "row": "the fic"
+          },
+          {
+            "row": "tional "
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "Gotham "
+          },
+          {
+            "row": "City wi"
+          },
+          {
+            "row": "th assi"
+          },
+          {
+            "row": "stance "
+          },
+          {
+            "row": "from va"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "rious s"
+          },
+          {
+            "row": "upporti"
+          },
+          {
+            "row": "ng char"
+          },
+          {
+            "row": "acters,"
+          },
+          {
+            "row": "includi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pli": [
+      {
+        "cli": [
+          {
+            "row": "ng his "
+          },
+          {
+            "row": "butler "
+          },
+          {
+            "row": "Alfred,"
+          },
+          {
+            "row": "police "
+          },
+          {
+            "row": "commiss"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "ioner J"
+          },
+          {
+            "row": "im Gord"
+          },
+          {
+            "row": "on, and"
+          },
+          {
+            "row": "vigilan"
+          },
+          {
+            "row": "te alli"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "es such"
+          },
+          {
+            "row": "as Robi"
+          },
+          {
+            "row": "n. Unli"
+          },
+          {
+            "row": "ke most"
+          },
+          {
+            "row": "superhe"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "roes, B"
+          },
+          {
+            "row": "atman d"
+          },
+          {
+            "row": "oes not"
+          },
+          {
+            "row": "possess"
+          },
+          {
+            "row": "any inh"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "uman su"
+          },
+          {
+            "row": "perpowe"
+          },
+          {
+            "row": "rs. He "
+          },
+          {
+            "row": "does, h"
+          },
+          {
+            "row": "owever,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pli": [
+      {
+        "cli": [
+          {
+            "row": "possess"
+          },
+          {
+            "row": "a geniu"
+          },
+          {
+            "row": "s-level"
+          },
+          {
+            "row": "intelle"
+          },
+          {
+            "row": "ct and "
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "is a pe"
+          },
+          {
+            "row": "erless "
+          },
+          {
+            "row": "martial"
+          },
+          {
+            "row": "artist,"
+          },
+          {
+            "row": "and his"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "vast we"
+          },
+          {
+            "row": "alth af"
+          },
+          {
+            "row": "fords h"
+          },
+          {
+            "row": "im an e"
+          },
+          {
+            "row": "xtraord"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "inary a"
+          },
+          {
+            "row": "rsenal "
+          },
+          {
+            "row": "of weap"
+          },
+          {
+            "row": "onry an"
+          },
+          {
+            "row": "d equip"
+          }
+        ]
+      },
+      {
+        "cli": [
+          {
+            "row": "ment. A"
+          },
+          {
+            "row": "large a"
+          },
+          {
+            "row": "ssortme"
+          },
+          {
+            "row": "nt of v"
+          },
+          {
+            "row": "illains"
+          }
+        ]
+      }
+    ]
+  }
+]
